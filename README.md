@@ -56,7 +56,3 @@ This project highlights the potential for optimizing high-frequency trading stra
 
 ## Acknowledgments
 Special thanks to WRDS for providing the TAQ data and to the financial modeling community for their invaluable discussions on market microstructure and execution strategies.
-
-## Contact
-For inquiries or collaborations, please reach out to [Your Name or GitHub Profile].
-
