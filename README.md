@@ -1,6 +1,4 @@
 # Optimal Execution for High-Frequency Strategies
-
-## Overview
 This project explores the optimization of trade execution strategies in high-frequency trading (HFT) by identifying cost-efficient time windows. Using a Time-Weighted Average Price (TWAP) strategy and incorporating market microstructure insights, we aim to minimize execution costs while addressing key market factors such as Order Flow Imbalance (OFI), Trade Imbalance (TI), and slippage.
 
 ## Methodology
