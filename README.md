@@ -1,4 +1,3 @@
-# Optimal-Execution-for-High-Frequency-Strategies
 # Optimal Execution for High-Frequency Strategies
 
 ## Overview
@@ -8,7 +7,8 @@ This project explores the optimization of trade execution strategies in high-fre
 ### 1. Market Impact Modeling
 We constructed a linear model to evaluate the total cost (TC) of trade execution:
 
-\[ \text{TC}_t = \beta_{\text{OFI}} \cdot \text{OFI}_t + \beta_{\text{TI}} \cdot \text{TI}_t + \gamma + \epsilon \]
+![image](https://github.com/user-attachments/assets/902293d2-0ee5-4878-b55b-cb2d8dd758d6)
+
 
 Where:
 - **OFI-Induced Cost**: Reflects how imbalances in incoming order flow influence the execution price. Larger OFI often results in higher transaction costs.
